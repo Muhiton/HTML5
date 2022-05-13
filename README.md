@@ -1,2 +1,2 @@
 # HTML5
-USo para aula de HTML
+Uso para aula de HTML
